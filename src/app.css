@@ -1,0 +1,41 @@
+* {
+    border: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --main-color: #50ffa7;
+    --second-color: #da5dff;
+    --text-color: #4d4d4d;
+    --black-color: #333333;
+    --white-color: #ffffff;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+h1, h2, h3, p, a {
+    font-family: 'Raleway', sans-serif;
+    color: var(--text-color);
+}
+
+h1 {
+    font-weight: bold;
+    color: var(--white-color);
+    font-size: 3rem;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 500;
+}
+ 
+a {
+    font-weight: 500;
+}
