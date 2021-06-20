@@ -47,7 +47,7 @@
     <p>Grid en kleur was een erg leuk vak voor bij de minor, ik heb niet echt het idee gehad dat ik iets geleerd heb. 
         Maar heb zeker wel in creatieve zin veel dingen weten op te pikken niet altijd het simpelste van simpelste proberen te maken.
         Heb wat meer leren nadenken over mijn keuzes door meer inspiratie op te doen. Dat heeft wel erg geholpen voor andere vakken tijdens de minor.
-        Vond het overgings wel een erg leuk en nog steeds leerzaam vak.
+        Vond het overgings wel een erg leuk en nog steeds leerzaam vak ondanks het niet heel vernieuwend was.
     </p>
 
     <a href="https://xd.adobe.com/view/b5932537-b8d8-4e80-b956-a64d5910c457-e0c0/" target="_blank">Prototype</a>
@@ -56,14 +56,10 @@
 
 <section id="webtypografie">
     <h2>Webtypografie</h2>
-    <p>Het vak beeldtaal was mijn favoriete vak van de hele minor. Vind het erg tof hoe er na word gedacht over beeldtaal
-        met daarbij een bedachten betekenis erachter. Hoe langer je de tijd neemt om een beeld te begrijpen,
-        des te sterker het beeld en de betekenis word, dat vind ik fascinerend. Ik heb veel geleerd van het vak, 
-        buiten de begrippen die ik geleerd heb om, ben ik ook wat kritscher geworden met kijken naar beeld, wat betekent het, wat word
-        er mee bedoelt, waarom is het beeld gemaakt en wat is de boodschap. Voel mij net een beetje Sherlock holmes.
-        <br><br>
-        Wat betreft techniek had ik al aardig wat verstand van Photoshop, op dit vakgebied heb ik wat minder geleerd. Maar
-        dat neemt niet weg dat ik het ontzettend leuk vind om te proetelen met beelden met dit programma. Top vak!
+    <p>Bij webtypografie had ik iets heel anders verwacht toen ik het voor het eerst hoorden. Was een erg leuk interessant vak die je
+        je ergens wat meer stil bij laat staan. Namelijk: hoe zorg je ervoor dat een film met geluid duidelijk word zonder geluid. 
+        Dit zorgde voor verschillende creatieven ideeën, dit vond ik persoonlijk heel tof. Je goed inlezen in de gebruiker en vervolgens
+        hier een goede oplossing voor bedenken. Dit vak ging mij ook door mijn kennis aan html/css, erg goed af.
     </p>
 
     <a href="https://mikehov.github.io/web-typography-20-21/closed-captions/" target="_blank">Prototype video</a>
@@ -73,14 +69,9 @@
 
 <section id="pechakucha">
     <h2>Pecha kucha</h2>
-    <p>Het vak beeldtaal was mijn favoriete vak van de hele minor. Vind het erg tof hoe er na word gedacht over beeldtaal
-        met daarbij een bedachten betekenis erachter. Hoe langer je de tijd neemt om een beeld te begrijpen,
-        des te sterker het beeld en de betekenis word, dat vind ik fascinerend. Ik heb veel geleerd van het vak, 
-        buiten de begrippen die ik geleerd heb om, ben ik ook wat kritscher geworden met kijken naar beeld, wat betekent het, wat word
-        er mee bedoelt, waarom is het beeld gemaakt en wat is de boodschap. Voel mij net een beetje Sherlock holmes.
-        <br><br>
-        Wat betreft techniek had ik al aardig wat verstand van Photoshop, op dit vakgebied heb ik wat minder geleerd. Maar
-        dat neemt niet weg dat ik het ontzettend leuk vind om te proetelen met beelden met dit programma. Top vak!
+    <p>Een presentatie manier waar ik nog nooit eerder van gehoord had. Vind het nog steeds een erg aparte manier van presenteren,
+        maar zie er wel het nut ervan in. Je presentatie is veel meer voorbereid en binnen de regels, maar er is alleen niet echt tijd voor fouten.
+        Het prima samen gewerkt met mijn groepje, een leuk interessant onderwerp bestudeerd. 
     </p>
 
     <a href="./pechakucha.pdf" target="_blank">Pecha kucha presentatie</a>
@@ -88,14 +79,9 @@
 
 <section id="ontwerpen1">
     <h2>Ontwerpen 1</h2>
-    <p>Het vak beeldtaal was mijn favoriete vak van de hele minor. Vind het erg tof hoe er na word gedacht over beeldtaal
-        met daarbij een bedachten betekenis erachter. Hoe langer je de tijd neemt om een beeld te begrijpen,
-        des te sterker het beeld en de betekenis word, dat vind ik fascinerend. Ik heb veel geleerd van het vak, 
-        buiten de begrippen die ik geleerd heb om, ben ik ook wat kritscher geworden met kijken naar beeld, wat betekent het, wat word
-        er mee bedoelt, waarom is het beeld gemaakt en wat is de boodschap. Voel mij net een beetje Sherlock holmes.
-        <br><br>
-        Wat betreft techniek had ik al aardig wat verstand van Photoshop, op dit vakgebied heb ik wat minder geleerd. Maar
-        dat neemt niet weg dat ik het ontzettend leuk vind om te proetelen met beelden met dit programma. Top vak!
+    <p>Het concept van ontwerpen 1 leek erg leuk, maar vond dit achteraf één van de minder leuke vakken. Ik kreeg het idee dat ik met de content
+        die ik had niet mijn eigen ding kon doen. Dit is natuurlijk mijn eigen schuld omdat het mijn eigen content is. Maar het wilde niet lukken
+        om iets te maken waar ik tevreden mee was. Er zat wel erg veel werk in, maar het resultaat was jammer genoeg wat jammer.
     </p>
 
     <a href="https://xd.adobe.com/view/a7507c03-09c4-49e8-b6c7-48ba2faa960c-f203/" target="_blank">Prototype</a>
@@ -103,14 +89,10 @@
 
 <section id="generativeart">
     <h2>Generative Art</h2>
-    <p>Het vak beeldtaal was mijn favoriete vak van de hele minor. Vind het erg tof hoe er na word gedacht over beeldtaal
-        met daarbij een bedachten betekenis erachter. Hoe langer je de tijd neemt om een beeld te begrijpen,
-        des te sterker het beeld en de betekenis word, dat vind ik fascinerend. Ik heb veel geleerd van het vak, 
-        buiten de begrippen die ik geleerd heb om, ben ik ook wat kritscher geworden met kijken naar beeld, wat betekent het, wat word
-        er mee bedoelt, waarom is het beeld gemaakt en wat is de boodschap. Voel mij net een beetje Sherlock holmes.
-        <br><br>
-        Wat betreft techniek had ik al aardig wat verstand van Photoshop, op dit vakgebied heb ik wat minder geleerd. Maar
-        dat neemt niet weg dat ik het ontzettend leuk vind om te proetelen met beelden met dit programma. Top vak!
+    <p>Eerst was ik best wel bang voor dit vak omdat we ging coderen in p5.js. Maar na goede research doen en mij goed inlezen heb ik erg
+        mooi project neer kunnen zetten. Had een leuk concept bedacht over een schaakbord met daarbij een uitwerking die oneindig door kon gaan.
+        Er zat veel tijd en moeite in en dat was het zeker waard. Dit vak heeft mijn javascript skills weer een beetje omhoog geholpen en geleerd
+        wat je kunt doen met p5.js.
     </p>
 
     <a href="https://mikehov.github.io/Generative-art/basic_website/" target="_blank">Prototype schaakbord</a>
@@ -121,14 +103,10 @@
 
 <section id="interfaceenbeweging">
     <h2>Interface & Beweging</h2>
-    <p>Het vak beeldtaal was mijn favoriete vak van de hele minor. Vind het erg tof hoe er na word gedacht over beeldtaal
-        met daarbij een bedachten betekenis erachter. Hoe langer je de tijd neemt om een beeld te begrijpen,
-        des te sterker het beeld en de betekenis word, dat vind ik fascinerend. Ik heb veel geleerd van het vak, 
-        buiten de begrippen die ik geleerd heb om, ben ik ook wat kritscher geworden met kijken naar beeld, wat betekent het, wat word
-        er mee bedoelt, waarom is het beeld gemaakt en wat is de boodschap. Voel mij net een beetje Sherlock holmes.
-        <br><br>
-        Wat betreft techniek had ik al aardig wat verstand van Photoshop, op dit vakgebied heb ik wat minder geleerd. Maar
-        dat neemt niet weg dat ik het ontzettend leuk vind om te proetelen met beelden met dit programma. Top vak!
+    <p>Weet nog steeds niet zo goed wat ik van dit vak moet vinden. Heb veel geleerd vond het wel leuk maar ook weer niet. Ik denk waar
+        ik vooral moeite mee had was het veel schetsen en bedenken, er moest namelijk best veel opgeleverd worden waar ik wat moeite mee had.
+        Overigens wel iets heel moois gemaakt en iets waar ik zeker trots op ben, toch als ik meer tijd had ingeplanned had ik wel iets toffers
+        kunnen maken. 
     </p>
 
     <a href="https://mikehov.github.io/Animatie-karakter/" target="_blank">Prototype</a>
@@ -137,14 +115,11 @@
 
 <section id="ontwerpen2">
     <h2>Ontwerpen 2</h2>
-    <p>Het vak beeldtaal was mijn favoriete vak van de hele minor. Vind het erg tof hoe er na word gedacht over beeldtaal
-        met daarbij een bedachten betekenis erachter. Hoe langer je de tijd neemt om een beeld te begrijpen,
-        des te sterker het beeld en de betekenis word, dat vind ik fascinerend. Ik heb veel geleerd van het vak, 
-        buiten de begrippen die ik geleerd heb om, ben ik ook wat kritscher geworden met kijken naar beeld, wat betekent het, wat word
-        er mee bedoelt, waarom is het beeld gemaakt en wat is de boodschap. Voel mij net een beetje Sherlock holmes.
-        <br><br>
-        Wat betreft techniek had ik al aardig wat verstand van Photoshop, op dit vakgebied heb ik wat minder geleerd. Maar
-        dat neemt niet weg dat ik het ontzettend leuk vind om te proetelen met beelden met dit programma. Top vak!
+    <p>Ontwerpen 2, het vaak waar ik eerst wat tegenop zat maar uiteindelijk één van mijn favorieten vakken in de minor is geweest.
+        Met het vinden van het concept vond ik wat lastig, ik voelde mij af en toe een beetje gestuurd. Maar toen ik mezelf eenmaal op het goede
+        pad had gezet, kreeg ik het erg naar mijn zin. Ik had voor mezelf een planning gemaakt omdat het zoveel werk was wat ik normaal niet doe.
+        Dit zorgde voor een soort drive om te blijven werken en werken en werken. Dag na dag werd het resultaat mooier en gaver en dat hield mij
+        heel erg gemotiveerd. In dit project zit by far het meeste werk in en ben ik het meest trots op. Een goed afsluitings project.
     </p>
 
     <a href="https://mikehov.github.io/Correspondent-loopgraven/" target="_blank">Prototype (officiele)</a>
