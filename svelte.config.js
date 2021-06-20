@@ -1,4 +1,4 @@
-import adaptStatic from '@sveltejs/adapter-static';
+import adaptStatic from '@sveltejs/adapter-vercel';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {

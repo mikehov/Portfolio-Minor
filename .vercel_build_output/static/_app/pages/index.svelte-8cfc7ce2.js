@@ -1,0 +1,1 @@
+import{S as s,i as t,s as e,K as a,d as n,H as o}from"../chunks/vendor-6efa7450.js";function d(s){return{c(){this.h()},l(s){a('[data-svelte="svelte-uzpip8"]',document.head).forEach(n),this.h()},h(){document.title="Index"},m:o,p:o,i:o,o:o,d:o}}export default class extends s{constructor(s){super(),t(this,s,null,d,e,{})}}

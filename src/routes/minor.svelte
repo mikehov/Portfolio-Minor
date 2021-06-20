@@ -33,14 +33,9 @@
 
 <section id="typografie">
     <h2>Typografie</h2>
-    <p>Het vak beeldtaal was mijn favoriete vak van de hele minor. Vind het erg tof hoe er na word gedacht over beeldtaal
-        met daarbij een bedachten betekenis erachter. Hoe langer je de tijd neemt om een beeld te begrijpen,
-        des te sterker het beeld en de betekenis word, dat vind ik fascinerend. Ik heb veel geleerd van het vak, 
-        buiten de begrippen die ik geleerd heb om, ben ik ook wat kritscher geworden met kijken naar beeld, wat betekent het, wat word
-        er mee bedoelt, waarom is het beeld gemaakt en wat is de boodschap. Voel mij net een beetje Sherlock holmes.
-        <br><br>
-        Wat betreft techniek had ik al aardig wat verstand van Photoshop, op dit vakgebied heb ik wat minder geleerd. Maar
-        dat neemt niet weg dat ik het ontzettend leuk vind om te proetelen met beelden met dit programma. Top vak!
+    <p>Het vak typografie leek in eerste opzicht erg tof, maar al gauw merkte ik dat het niets voor mij was. Het zoeken naar bepaalde typografieen
+        en daar over nadenken vond ik wel interessant, maar eenmaal het knutselen van dit lettertype vond ik maar niets. Na heel veel 
+        pogingen is het wel eindelijk gelukt om een voldoende te halen, maar dit na veel stress.
     </p>
 
     <a href="./typografiedras.pdf" target="_blank">4 Letter woord</a>
@@ -49,14 +44,10 @@
 
 <section id="gridenkleur">
     <h2>Grid en kleur</h2>
-    <p>Het vak beeldtaal was mijn favoriete vak van de hele minor. Vind het erg tof hoe er na word gedacht over beeldtaal
-        met daarbij een bedachten betekenis erachter. Hoe langer je de tijd neemt om een beeld te begrijpen,
-        des te sterker het beeld en de betekenis word, dat vind ik fascinerend. Ik heb veel geleerd van het vak, 
-        buiten de begrippen die ik geleerd heb om, ben ik ook wat kritscher geworden met kijken naar beeld, wat betekent het, wat word
-        er mee bedoelt, waarom is het beeld gemaakt en wat is de boodschap. Voel mij net een beetje Sherlock holmes.
-        <br><br>
-        Wat betreft techniek had ik al aardig wat verstand van Photoshop, op dit vakgebied heb ik wat minder geleerd. Maar
-        dat neemt niet weg dat ik het ontzettend leuk vind om te proetelen met beelden met dit programma. Top vak!
+    <p>Grid en kleur was een erg leuk vak voor bij de minor, ik heb niet echt het idee gehad dat ik iets geleerd heb. 
+        Maar heb zeker wel in creatieve zin veel dingen weten op te pikken niet altijd het simpelste van simpelste proberen te maken.
+        Heb wat meer leren nadenken over mijn keuzes door meer inspiratie op te doen. Dat heeft wel erg geholpen voor andere vakken tijdens de minor.
+        Vond het overgings wel een erg leuk en nog steeds leerzaam vak.
     </p>
 
     <a href="https://xd.adobe.com/view/b5932537-b8d8-4e80-b956-a64d5910c457-e0c0/" target="_blank">Prototype</a>
@@ -245,7 +236,7 @@ h1 {
 	#aboutme {
 		width: 100vw;
 		height: 100vh;
-		background-image: url(./background.png);
+		background-image: url(/background.png);
 		background-size: cover;
 		background-position: left center;
 
@@ -262,7 +253,7 @@ h1 {
     #beeldtaal {
 		width: 100vw;
 		height: 100vh;
-		background-image: url(./beeldtaal-bg.png);
+		background-image: url(/beeldtaal-bg.png);
 		background-size: cover;
 		background-position: left center;
 
@@ -281,7 +272,7 @@ h1 {
     #typografie {
 		width: 100vw;
 		height: 100vh;
-		background-image: url(./typografie-bg.png);
+		background-image: url(/typografie-bg.png);
 		background-size: cover;
 		background-position: left center;
 
@@ -300,7 +291,7 @@ h1 {
     #gridenkleur {
 		width: 100vw;
 		height: 100vh;
-		background-image: url(./gridenkleur-bg.png);
+		background-image: url(/gridenkleur-bg.png);
 		background-size: cover;
 		background-position: left center;
 
@@ -319,7 +310,7 @@ h1 {
     #webtypografie {
 		width: 100vw;
 		height: 100vh;
-		background-image: url(./webtypografie-bg.png);
+		background-image: url(/webtypografie-bg.png);
 		background-size: cover;
 		background-position: left center;
 
@@ -338,7 +329,7 @@ h1 {
     #pechakucha {
 		width: 100vw;
 		height: 100vh;
-		background-image: url(./pechakucha-bg.png);
+		background-image: url(/pechakucha-bg.png);
 		background-size: cover;
 		background-position: left center;
 
@@ -357,7 +348,7 @@ h1 {
     #ontwerpen1 {
 		width: 100vw;
 		height: 100vh;
-		background-image: url(./ontwerpen1-bg.png);
+		background-image: url(/ontwerpen1-bg.png);
 		background-size: cover;
 		background-position: left center;
 
@@ -376,7 +367,7 @@ h1 {
     #generativeart {
 		width: 100vw;
 		height: 100vh;
-		background-image: url(./generativeart-bg.png);
+		background-image: url(/generativeart-bg.png);
 		background-size: cover;
 		background-position: left center;
 
@@ -395,7 +386,7 @@ h1 {
     #interfaceenbeweging {
 		width: 100vw;
 		height: 100vh;
-		background-image: url(./interfaceenbeweging-bg.png);
+		background-image: url(/interfaceenbeweging-bg.png);
 		background-size: cover;
 		background-position: left center;
 
@@ -414,7 +405,7 @@ h1 {
     #ontwerpen2 {
 		width: 100vw;
 		height: 100vh;
-		background-image: url(./ontwerpen2-bg.png);
+		background-image: url(/ontwerpen2-bg.png);
 		background-size: cover;
 		background-position: left center;
 
