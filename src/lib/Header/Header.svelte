@@ -20,9 +20,16 @@
 		
 
 		<ul>
-			<li><a href="#project">Projects I'm proud off</a></li>
-			<li><a href="#about">About</a></li>
-			<li><a href="#contact">Contact</a></li>
+			<li><a href="#aboutme">Over mij</a></li>
+			<li><a href="#beeldtaal">Beeldtaal</a></li>
+			<li><a href="#typografie">Typografie</a></li>
+			<li><a href="#vormgeving">Vormgeving</a></li>
+			<li><a href="#webtypografie">Webtypografie</a></li>
+			<li><a href="#pechakucha">Pecha kucha</a></li>
+			<li><a href="#ontwerpen1">Ontwerpen 1</a></li>
+			<li><a href="#generativeart">Generative Art</a></li>
+			<li><a href="#interfaceenbeweging">Interface & Beweging</a></li>
+			<li><a href="#ontwerpen2">Ontwerpen 2</a></li>	
 		</ul>
 	</nav>
 </header>
@@ -65,14 +72,11 @@
 	a {
 		text-decoration: none;
 		color: var(--black-color);
-
-		writing-mode: vertical-rl;
-		text-orientation: mixed;
 	}
 
 	nav {
 		position: fixed;
-		top: calc(100vh - 75%);
+		top: 1rem;
 		right: 0;
 	}
 
