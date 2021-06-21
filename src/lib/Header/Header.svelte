@@ -30,6 +30,7 @@
 			<li><a href="#generativeart">Generative Art</a></li>
 			<li><a href="#interfaceenbeweging">Interface & Beweging</a></li>
 			<li><a href="#ontwerpen2">Ontwerpen 2</a></li>	
+			<li><a href="#eindvisie">Eind visie</a></li>
 		</ul>
 	</nav>
 </header>

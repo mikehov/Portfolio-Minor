@@ -45,9 +45,9 @@
 <section id="gridenkleur">
     <h2>Grid en kleur</h2>
     <p>Grid en kleur was een erg leuk vak voor bij de minor, ik heb niet echt het idee gehad dat ik iets geleerd heb. 
-        Maar heb zeker wel in creatieve zin veel dingen weten op te pikken niet altijd het simpelste van simpelste proberen te maken.
+        Maar heb zeker wel in creatieve zin veel dingen weten op te pikken, "niet altijd het simpelste van simpelste proberen te maken maar out of the box denken".
         Heb wat meer leren nadenken over mijn keuzes door meer inspiratie op te doen. Dat heeft wel erg geholpen voor andere vakken tijdens de minor.
-        Vond het overgings wel een erg leuk en nog steeds leerzaam vak ondanks het niet heel vernieuwend was.
+        Vond het overgings wel een erg leuk en nog steeds leerzaam vak ondanks het niet heel vernieuwend voor mij was.
     </p>
 
     <a href="https://xd.adobe.com/view/b5932537-b8d8-4e80-b956-a64d5910c457-e0c0/" target="_blank">Prototype</a>
@@ -59,7 +59,7 @@
     <p>Bij webtypografie had ik iets heel anders verwacht toen ik het voor het eerst hoorden. Was een erg leuk interessant vak die je
         je ergens wat meer stil bij laat staan. Namelijk: hoe zorg je ervoor dat een film met geluid duidelijk word zonder geluid. 
         Dit zorgde voor verschillende creatieven ideeën, dit vond ik persoonlijk heel tof. Je goed inlezen in de gebruiker en vervolgens
-        hier een goede oplossing voor bedenken. Dit vak ging mij ook door mijn kennis aan html/css, erg goed af.
+        hier een goede oplossing voor bedenken. Dit vak ging mij ook door mijn kennis aan html/css, erg goed af en had het erg naar mijn zin.
     </p>
 
     <a href="https://mikehov.github.io/web-typography-20-21/closed-captions/" target="_blank">Prototype video</a>
@@ -105,7 +105,7 @@
     <h2>Interface & Beweging</h2>
     <p>Weet nog steeds niet zo goed wat ik van dit vak moet vinden. Heb veel geleerd vond het wel leuk maar ook weer niet. Ik denk waar
         ik vooral moeite mee had was het veel schetsen en bedenken, er moest namelijk best veel opgeleverd worden waar ik wat moeite mee had.
-        Overigens wel iets heel moois gemaakt en iets waar ik zeker trots op ben, toch als ik meer tijd had ingeplanned had ik wel iets toffers
+        Overigens wel iets heel moois gemaakt, leuke animaties, leuke ideeën, een goede uitwerking en iets waar ik zeker trots op ben, toch als ik meer tijd had ingeplanned had ik wel iets toffers
         kunnen maken. 
     </p>
 
@@ -125,6 +125,16 @@
     <a href="https://mikehov.github.io/Correspondent-loopgraven/" target="_blank">Prototype (officiele)</a>
     <a href="https://xd.adobe.com/view/b1c5b73d-7da3-47c9-8054-938da842e9e7-e496/" target="_blank">Prototype XD (design only)</a>
     <a href="#" target="_blank">Documentatie</a>
+</section>
+<section id="eindvisie">
+    <h2>Eind visie</h2>
+    <p>Vond het een ontzettende leuke minor en ben nog steeds echt super blij dat ik van de vele studenten er tussen ben gekomen. Heb het ondanks
+        thuis zitten erg naar mijn zin gehad, meer geleerd dan ik zelf had verwacht. Heb nieuwe technieken geleerd, een nieuwe manier van denken en werken en
+        zelfs nieuwe kennis over andere vakken. Minor heeft mij ook laat zien wat voor richtingen ik echt leuk vind en wat iets minder. Beeldtaal en Ontwerpen 2
+        waren mijn favoriete vakken van de minor. Beeldtaal vind ik erg interessant en vind de betekenis en het ontleden van beeld super leuk en interessant, het is een hele andere manier van denken.
+        Ontwerpen 2 heb ik heel veel werk ingestoken wat ervoor gezorgd heeft dat ik het erg leuk begon te vinden, ook ben ik bij deze heel trots op het eindresultaat.
+        Jammer dat de tijd alweer voorbij is, het was een top minor!
+    </p>
 </section>
 
 
@@ -390,6 +400,25 @@ h1 {
 	}
 
     #ontwerpen2 h2 {
+            color: var(--main-color);
+            background-color: var(--black-color);
+            padding: 1rem 3rem 1rem 3rem;
+            display: inline;
+    }
+
+    #eindvisie {
+		width: 100vw;
+		height: 100vh;
+		background-image: url(/background.png);
+		background-size: cover;
+		background-position: left center;
+
+		padding-bottom: 3rem;
+
+		opacity: 1;
+	}
+
+    #eindvisie h2 {
             color: var(--main-color);
             background-color: var(--black-color);
             padding: 1rem 3rem 1rem 3rem;
